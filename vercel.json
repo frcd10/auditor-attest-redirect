@@ -1,0 +1,5 @@
+{
+  "redirects": [
+    { "source": "/:path*", "destination": "https://auditordog.org/:path*", "permanent": true }
+  ]
+}
